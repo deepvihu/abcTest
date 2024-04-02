@@ -6,7 +6,10 @@
 	</listeners>
   <test thread-count="5" name="Test1">
     <classes>
-      <class name="com.testNG.FirstTest"/>
+      <class name="com.testNG.FirstTest
+
+
+	      
     </classes>
   </test> <!-- Test -->
 
