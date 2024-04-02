@@ -1,0 +1,14 @@
+<Logdata>
+	
+	<log user = "01">
+		<username>standard_user</username>
+		<password>secret_sauce</password>
+	</log>
+	
+	<log user = "02">
+		<username>problem_user</username>
+		<password>secret_sauce</password>
+	</log>
+	
+	
+</Logdata>
