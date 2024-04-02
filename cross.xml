@@ -9,7 +9,7 @@
   </test> <!-- Test -->
   
    <test thread-count="5" name="Test1">
-	  <parameter name="browser" value="Edge"/>
+	  < parameter name="browser" value="Edge"/>
     <classes>
       <class name="com.testNG.CrossBrowserTest"/>
     </classes>
